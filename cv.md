@@ -3,6 +3,7 @@
 * Date of birth: 11.08.1986
 
 ## About me
+
 I don’t have much experience. There was branch that programming controllers in the department where I worked as design engineer. 
 And that is why I started interested in programming. I started to learn java by myself.
 And in university I learned c++, html and sql. So HTML was the easiest start to do web site. Then I switched to learn web programming by O'Reilly books. And also during studying in university I try to find job. But it was not easy and unsuccessful for me.  
@@ -50,16 +51,20 @@ So it became my hobby. For my diploma I did a website with PHP and SQL. Went wor
 ## EXPERIENCE
 
 ### Technical IT support engineer
+
 | Year | Company | 
 | --- | --- |
 | Jul 2019 – Present | LLC "SSI Schaefer" (Samara Region, Russian Federation) |
+
 Description: 
 * first level.
 
 ### Main technical support consultant
+
 | Year | Company | 
 | --- | --- |
 | Dec 2017 – Jul 2019 | LLC "SSI Schaefer" (Samara Region, Russian Federation) |
+
 Description: 
 * troubleshooting conveyor system;
 * remote support of server:
@@ -77,16 +82,20 @@ Description:
 * additional night shifts.
 
 ### Senior Technical Support Consultant
+
 | Year | Company | 
 | --- | --- |
 | Nov 2016 – Dec 2017 | LLC "SSI Schaefer" (Samara Region, Russian Federation) |
+
 Description: 
 * maintenance and technical support of automated conveyor warehouses (contact level).
 
 ### Senior Customer Support Engineer
+
 | Year | Company | 
 | --- | --- |
 | Apr 2015 – Dec 2016 | LLC «Regional center of information security» (Samara Region, Russian Federation) |
+
 Description: 
 * fix CMS, because of that, it's possible to add a new sections to the site;
 * technical support our clients by the phone. Solve problems, which appears during the work with software of SKB Kontur (SAAS- products);
@@ -97,9 +106,11 @@ Description:
 * installation and technical support of a cash machine.
 
 ### Design engineer in the department of low voltage equipment design
+
 | Year | Company | 
 | --- | --- |
 | Aug 2011 – Jun 2012 | CJSC Electroshield Samara (Samara Region, Russian Federation) |
+
 Description: 
 * circuit design of elementary scheme and layout scheme;
 * searching of required materials;
@@ -108,9 +119,11 @@ Description:
 * assembly support.
 
 ### Design engineer in the department of high voltage equipment design
+
 | Nov 2010 – Aug 2011 | Company | 
 | --- | --- |
 | Jul 2019 – Present | CJSC Electroshield Samara (Samara Region, Russian Federation) |
+
 Description: 
 * constructed trolley for vacuum switch;
 * constructed Mount Lock for the door of the electricity substation;
@@ -120,17 +133,21 @@ Description:
 * assembly support.
 
 ### Engineer
+
 | Year | Company | 
 | --- | --- |
 | Dec 2009 – Feb 2010 | OJSC "RCC "Progress"" (Samara Region, Russian Federation) |
+
 Description: 
 * faulty estimates;
 * reconstruction of electric system.
 
 ### Apprentice Construction Electrician
+
 | Year | Company | 
 | --- | --- |
 | Jul 2005 – Aug 2005 | OJSC "Electroshield" (Samara Region, Russian Federation) |
+
 Description: 
 * installation of low voltage equipment.
 
