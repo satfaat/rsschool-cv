@@ -17,14 +17,14 @@ Now I'm studying javascript/front-end courses in [RsSchool](https://docs.rs.scho
 | skype | satfaat |
 | e-mail | satfaat@gmail.com |
 
-| Site links |  
-| --- | 
-| [LinkedIn](https://www.linkedin.com/in/faat-sattarov-571b69134/) |
-| [hh.ru](https://samara.hh.ru/resume/ded85859ff0242f91a0039ed1f3361596f3468) |
-| [github profile](https://github.com/satfaat) |
-| [codecademy achievements](https://www.codecademy.com/profiles/core4520403572) |
-| [website](http://nontest.000webhostapp.com/) |
-| [rs.school](https://app.rs.school/login) |
+#### Site links 
+
+| cv | achievements | git |
+| --- | --- | --- |
+| [LinkedIn](https://www.linkedin.com/in/faat-sattarov-571b69134/) | [codecademy achievements](https://www.codecademy.com/profiles/core4520403572) | [github profile](https://github.com/satfaat) |
+| [hh.ru](https://samara.hh.ru/resume/ded85859ff0242f91a0039ed1f3361596f3468) | [website](http://nontest.000webhostapp.com/) | |
+|  | [rs.school](https://app.rs.school/login) | |
+| | [codewars](https://www.codewars.com/users/satfaat) | |
 
 ## CODE EXAMPLES
 
