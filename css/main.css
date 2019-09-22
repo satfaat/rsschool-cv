@@ -1,0 +1,123 @@
+/*layout*/
+*, *::before, *::after {
+  box-sizing:border-box;
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box;
+}
+html { font-family: "Roboto", "Comic Sans MS", "Century Gothic", sans-serif; }
+
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  background: rgba(235, 230, 230, 0.7) url("../img/background/work_3.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+.card {
+  margin: 8px 0;
+  padding: 10px 20px;
+  box-shadow: 0 1px 3px rgba(14, 9, 9, 0.5), 0 1px 2px rgba(0, 0, 0, 0.7);
+}
+.card:first-child {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.card:last-child {
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.color_bg_white_glass {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-gap: 1rem;
+}
+.grid_card {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-gap: .5rem;
+  align-items: flex-start;
+}
+
+
+/*Table*/
+table {
+  width: 100%;
+  border-collapse: separate;
+  background: rgba(252, 248, 248, 0.5);
+  border-radius: 30px;
+  margin:50px auto;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+}
+  
+tbody tr td, thead th {padding: 0 20px;}
+
+thead th {
+  color:#fff;
+  text-align:right;
+  
+  background-image: linear-gradient(#646f7f, #4a5564);
+  border-top:1px solid #858d99;
+  opacity: 0.6;
+}
+
+th:first-child {border-top-left-radius: 30px;}
+th:last-child {border-top-right-radius: 30px;}
+tbody tr td {
+  color:#5f6062;
+  border-bottom:1px solid #e0e0e0;
+}
+  /*img*/
+  .sf { max-width: 350px;}
+/*.text_on_img {
+  position: absolute;
+  bottom: 5%;
+  background: rgba(0, 0, 0, 0.3);
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  font-size: 20px;
+   text-align: center;
+}
+  .photo_text_pos{position: relative;}*/
+
+/*text*/
+h1{font-size: 2em;}
+h2{font-size: 1.5em;}
+h3{font-size: 1.3em;}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Copperplate Gothic Light", serif;
+  color: aliceblue;
+  background-color: hsla(180, 100%, 25%, 0.4);
+  border-radius: 50px 20px;
+}
+
+p{
+  font-size: 0.9em;
+  text-align: justify;
+  letter-spacing: 1px;}
+table p {
+  text-align: right;
+  font-size: 0.7em;
+}
+hr{margin: -10px;}
+
+/* Zebra striping */
+.ul_none_text{ list-style: none; }
+/*.ul_none_text li:nth-child(2n){*/
+  /*background-color: hsla(36, 100%, 50%, 0.6);*/
+  /*color: rgb(218, 112, 13);*/
+/*}*/
+
+/*Links*/
+a{
+  text-decoration:none;
+  color: #008CBA;}
+a:link {color: #008CBA;} /* unvisited link */
+a:visited {color: green;} /* visited link */
+a:hover {color: red;} /* mouse over link */
+a:active {color: #008CBA;} /* selected link */
